@@ -2,8 +2,9 @@
 
 
 ## Introduction
+Location Kit combines the GNSS, Wi-Fi, and base station location functionalities into your app to build up global positioning capabilities, allowing you to provide flexible location-based services for global users. Currently, it provides three main capabilities: fused location, activity identification, and geofence.
 
-This is an project for my personal use.
+This demo project will focus on creating current location update and activity identification that are running background, foreground and when the app is killed.
 
 
 ## Run the app
